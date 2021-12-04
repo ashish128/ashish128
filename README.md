@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish128
-- 👀 I’m interested in ... full stack
-- 🌱 I’m currently learning ... HTML + CSS + JS + PHP
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
